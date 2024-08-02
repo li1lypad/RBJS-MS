@@ -30,6 +30,7 @@
     (type song)
     (name "Testing Song")
     (artist "skippie_.")
+    (author "skippie_.")
     (genre classicrock)
     (year_released 1994)
     (year_recorded 1973)
